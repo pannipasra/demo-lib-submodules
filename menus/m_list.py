@@ -1,0 +1,85 @@
+def menu_list():
+    return THAI_DISHES
+
+
+THAI_DISHES = [
+    # Appetizers and Salads
+    "ลาบ (Laab)",
+    "น้ำตก (Nam Tok)",
+    "ยำวุ้นเส้น (Yum Woon Sen)",
+    "ส้มตำ (Som Tam)",
+    "ปอเปี๊ยะสด (Popiah Sod)",
+    "ต้มยำกุ้ง (Tom Yum Goong)",
+    "ต้มข่าไก่ (Tom Kha Gai)",
+    "แกงจืดเต้าหู้หมูสับ (Gang Jeud Tao Huu Moo Sap)",
+    "ยำวุ้นเส้นทะเล (Yum Woon Sen Tale)",
+    "ยำส้มโอ (Yum Som O)",
+
+    # Main Courses
+    "ข้าวกะเพรา (Khao Ka Prao)", 
+    "ข้าวผัด (Khao Pad)", 
+    "แกงจืด (Kaeng Jeut)", 
+    "ส้มตำ (Som Tam)", 
+    "คอหมูย่าง (Kho Mu Yang)"
+    "ผัดไทย (Pad Thai)",
+    "แกงเขียวหวานไก่ (Gang Khao Wan Gai)",
+    "แกงพะแนงเนื้อ (Gang Panaeng Neua)",
+    "มัสมั่นไก่ (Massaman Gai)",
+    "ต้มข่าปลา (Tom Kha Pla)",
+    "แกงป่าไก่ (Gang Pa Gai)",
+    "ผัดกะเพราหมูสับ (Pad Krapow Moo Sap)",
+    "ผัดซีอิ๊ว (Pad See Ew)",
+    "ข้าวผัด (Khao Pad)",
+    "ข้าวมันไก่ (Khao Man Gai)",
+
+    # Noodle Dishes
+    "ก๋วยเตี๋ยวเรือ (Kway Teow Reua)",
+    "ก๋วยเตี๋ยวน้ำตก (Kway Teow Nam Tok)",
+    "ก๋วยเตี๋ยวต้มยำ (Kway Teow Tom Yum)",
+    "ก๋วยเตี๋ยวคั่วไก่ (Kway Teow Khua Kai)",
+    "ก๋วยเตี๋ยวหลอด (Kway Teow Lot)",
+    "บะหมี่เกี๊ยวน้ำ (Ba Mee Giao Nam)",
+    "เย็นตาโฟ (Yen Ta Fo)",
+    "วุ้นเส้นน้ำ (Woon Sen Nam)",
+    "ก๋วยจั๊บญวน (Kway Jab Nua)",
+    "ก๋วยเตี๋ยวหลอดผัด (Kway Teow Lot Pad)",
+
+    # Rice Dishes
+    "ข้าวซอย (Khao Soi)",
+    "ข้าวคลุกกะปิ (Khao Khluk Kapi)",
+    "ข้าวผัดปู (Khao Pad Pu)",
+    "ข้าวมันไก่ (Khao Man Gai)",
+    "ข้าวเหนียวมะม่วง (Khao Niao Mamuang)",
+    "ข้าวต้มปลา (Khao Tom Pla)",
+    "ข้าวต้มกุ้ง (Khao Tom Kung)",
+    "ข้าวผัดพริกแกง (Khao Pad Prik Gang)",
+    "ข้าวไข่เจียว (Khao Kai Jiew)",
+    "ข้าวราดแกง (Khao Rad Gang)",
+
+    # Desserts and Sweet Treats
+    "ขนมชั้น (Khanom Chan)",
+    "ขนมครก (Khanom Krok)",
+    "ขนมถ้วยฟู (Khanom Thuey Foo)",
+    "ขนมเปียกปูน (Khanom Piak Pun)",
+    "ขนมทองหยิบ (Khanom Thong Yip)",
+    "ขนมทองหยอด (Khanom Thong Yod)",
+    "ทองม้วน (Thung Moon)",
+    "เม็ดขนุน (Met Kanun)",
+    "ขนมลอดช่อง (Khanom Lot Chong)",
+    "ข้าวเหนียวมะม่วง (Khao Niao Mamuang)",
+    "ลูกชุบ (Look Chup)",
+    "ขนมหม้อแกง (Khanom Mo Kaeng)",
+    "ขนมตะโก้ (Khanom Ta Ko)",
+    "ข้าวต้มน้ำตาล (Khao Tom Nam Tan)",
+    "ขนมตาล (Khanom Taan)",
+    "ขนมถ้วย (Khanom Thuey)",
+    "บัวลอย (Bua Loi)",
+    "ขนมเบื้อง (Khanom Bueng)",
+    "ขนมสาคู (Khanom Sago)",
+    "ขนมมัน (Khanom Man)",
+    "ไอติมกะทิ (I Tim Kati)",
+    "บิงซู (Bing Su)",
+    "โทสต์ (Toast)",
+    "วาฟเฟิล (Waffle)",
+    "เค้ก (Khek)",
+]
