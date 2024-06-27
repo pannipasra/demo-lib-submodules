@@ -1,5 +1,5 @@
 import random
-from m_list import menu_list
+from .m_list import menu_list
 
 def m_rand():
     """Random by menu list"""
